@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "330477841802",
+    "project_id": "suitslife-96cb1",
+    "storage_bucket": "suitslife-96cb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330477841802:android:e1fea5f890c92dddd3ac73",
+        "android_client_info": {
+          "package_name": "suits.life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330477841802-r8e1k4jakq12v22ikle8h62nb04kbdhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "suits.life",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "330477841802-q6rqd2842tc1n4m1ig09c7safv251sg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw7WE6aEquE2NnPc0L33ymc0QJdk4KGwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330477841802-q6rqd2842tc1n4m1ig09c7safv251sg1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330477841802-1hp0ks6pt2knrama7v2724q3102gmao9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "suits.life"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
